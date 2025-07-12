@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+This a cloned repo adapted from sumit kumar
 # Blood Bank Management System
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
 ## Screenshots
 ### Homepage
@@ -75,10 +74,6 @@ http://127.0.0.1:8000/
 ```
 
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
 =======
 # Bloodbank-management
 >>>>>>> a31179cfc7310ecf64286d5ba9b76ce5b84d6ee0

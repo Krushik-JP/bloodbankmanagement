@@ -1,4 +1,4 @@
-This a cloned repo adapted from sumit kumar
+This a updated project , cloned repo adapted from sumit kumar 
 # Blood Bank Management System
 ---
 ## Screenshots
@@ -73,7 +73,3 @@ py manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-
-=======
-# Bloodbank-management
->>>>>>> a31179cfc7310ecf64286d5ba9b76ce5b84d6ee0
